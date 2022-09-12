@@ -1,0 +1,52 @@
+*{
+  color:red;
+}
+div{
+  color:green;
+}
+p{
+  color:brown;
+}
+.text{
+  color:yellow;
+}
+.painting{
+  width: 600px;
+}
+a{
+  color:black;
+}
+.text{
+  color:blueviolet;
+}
+.text >p{
+  color:aqua;
+}
+.decor{
+  color:grey;;
+}
+.text p{
+  color:rgb(42, 165, 87);
+}
+
+.text ~p{
+  color:rgb(255, 0, 106)
+}
+.text +p{
+  color:bisque;
+}
+.text *{
+  color:red;
+}
+.text .decor{
+  color:greenyellow;
+}
+.osnova,.box{
+  color:blue;
+}
+#p1{
+  color:black;
+}
+li{
+  color:aqua;
+}
